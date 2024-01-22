@@ -15,3 +15,7 @@ project/local-plugins.sbt
 
 # rust
 target/
+
+# node and typescript
+node_modules/
+build/
