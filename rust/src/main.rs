@@ -1,3 +1,3 @@
-fm main() {
+fn main() {
   println!("j");
 }
