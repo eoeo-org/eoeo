@@ -1,9 +1,9 @@
 using System;
 
-class j
+class eoeo
 {
     static void Main()
     {
-        Console.WriteLine("j");
+        Console.WriteLine("eoeo");
     }
 }

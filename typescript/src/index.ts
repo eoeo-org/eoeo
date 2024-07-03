@@ -1,2 +1,2 @@
-const j: string = "j"
-console.log(j)
+const eoeo: string = "eoeo"
+console.log(eoeo)
